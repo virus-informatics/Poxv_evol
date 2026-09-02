@@ -24,7 +24,7 @@ library(igraph)
 library(rstatix)
 library(ggpubr)
 
-setwd("/Users/Chainorato/Desktop/Mpox_project")
+setwd("/Users/Chainorato/Desktop/Poxvirus_evol_project")
 
 ############################## Genome statistics of poxviruses ##############################
 ########## Gather metadata of poxviruses from NCBI
